@@ -2,6 +2,7 @@
 
 ## Description
 - TODO app using django (backend) and react (frontend)
+- server mongodb atlas
 
 ## Start BACKEND server
 ```
